@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Cơ Bản</title>
+</head>
+<body>
+    <header>
+        <h1>Chào mừng bạn đến với trang web của chúng tôi</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Trang Chủ</a></li>
+            <li><a href="#">Về Chúng Tôi</a></li>
+            <li><a href="#">Liên Hệ</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>Giới thiệu</h2>
+            <p>Đây là một trang web cơ bản được tạo bằng mã HTML.</p>
+        </section>
+        
+        <section>
+            <h2>Tin Tức</h2>
+            <p>Thông tin về tin tức mới nhất sẽ xuất hiện ở đây.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Trang web của chúng tôi. Bản quyền được bảo lưu.</p>
+    </footer>
+</body>
+</html
